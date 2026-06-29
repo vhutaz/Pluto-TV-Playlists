@@ -766,10 +766,10 @@
         <desc>En febrero de 1988, un vendedor de una disquera en Sandusky, Ohio, recibió un disparo mortal en su camioneta. Después de descubrir un bolso con miles de dólares dentro del vehículo, la policía supo que el robo no era el motivo.</desc>
         <icon src="https://images.pluto.tv/series/5f4fc0e31629e7001abe999c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acce7f17797000718f9be" start="20260629120000 +0000" stop="20260629122400 +0000">
-        <title>Ana y los 7</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1acce7f17797000718f9be" start="20260629111600 +0000" stop="20260629122400 +0000">
+        <title>Ana y los 7: Amores cruzados</title>
+        <desc>Sharon, la compañera de Ana en el club Chicago, tiene un nuevo novio, un hombre adinerado que le va a producir una película. Ana descubre que se trata del padre de Fernando, Don Nicolás, quien aparece en el club.</desc>
+        <icon src="https://images.pluto.tv/series/5f562db9f7db51001a3c5acc/tile_1774022761087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1acce7f17797000718f9be" start="20260629122400 +0000" stop="20260629133500 +0000">
         <title>Ana y los 7</title>
@@ -791,10 +791,10 @@
         <desc>Carolina, la hija mayor de Fernando, se siente fuertemente atraída por León, un joven que compagina su trabajo como mensajero con ocasionales actuaciones musicales. Carolina aprovecha la fiesta de su hermana Celia para presentar a León a su padre.</desc>
         <icon src="https://images.pluto.tv/series/5f562db9f7db51001a3c5acc/tile_1774022761087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acd36779de70007a680d1" start="20260629120000 +0000" stop="20260629122700 +0000">
-        <title>Curro Jiménez</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1acd36779de70007a680d1" start="20260629112500 +0000" stop="20260629122700 +0000">
+        <title>Curro Jiménez: El bosque de las brujas</title>
+        <desc>Cumpliendo una misión de vigilancia, El Algarrobo tiene un extraña experiencia con una joven que vive aislada en un misterioso bosque.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f4830b9a18c001a4c536d/tile_1774022761044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1acd36779de70007a680d1" start="20260629122700 +0000" stop="20260629133100 +0000">
         <title>Curro Jiménez: Los piadosos y los pícaros</title>
@@ -816,10 +816,10 @@
         <desc>Un joven de ideas liberales, decide imitar a Curro Jiménez para implantar la justicia. Por este motivo secuestra al dueño de una mina que explota cruelmente a los mineros.</desc>
         <icon src="https://images.pluto.tv/series/5f4f4830b9a18c001a4c536d/tile_1774022761044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f984f4a09e92d0007d74647" start="20260629120000 +0000" stop="20260629121052 +0000">
-        <title>Archivos Forenses</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/featuredImage_1763542907955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f984f4a09e92d0007d74647" start="20260629114252 +0000" stop="20260629121052 +0000">
+        <title>Archivos Forenses: Cuerpo de Evidencia</title>
+        <desc>Mark Fair se fue a trabajar y su prometida, Karla Brown, se quedó en casa. Más tarde, la encontró muerta. Durante la autopsia, se volvieron a examinar las marcas de mordeduras en su cuerpo y la odontología forense identificó al asesino.</desc>
+        <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1769109481816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f984f4a09e92d0007d74647" start="20260629121052 +0000" stop="20260629123852 +0000">
         <title>Archivos Forenses: Accidente o Asesinato</title>
@@ -886,10 +886,50 @@
         <desc>El secuestro de un bebé en el distrito de San Fernando se suma al de otros tres niños. Todas las víctimas eran varones de siete meses.</desc>
         <icon src="https://images.pluto.tv/series/61c06678f30167001a631da6/tile_1760038420617.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d8dc943001000708548d" start="20260629120000 +0000" stop="20260629160000 +0000">
+    <programme channel="6130d8dc943001000708548d" start="20260629113944 +0000" stop="20260629120944 +0000">
         <title>MTV Pride</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/featuredImage_1780300237530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629120944 +0000" stop="20260629123944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629123944 +0000" stop="20260629130944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629130944 +0000" stop="20260629133944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629133944 +0000" stop="20260629140944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629140944 +0000" stop="20260629143944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629143944 +0000" stop="20260629150944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629150944 +0000" stop="20260629153944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20260629153944 +0000" stop="20260629160944 +0000">
+        <title>MTV Pride</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="619b9f16b8fee4000832d447" start="20260629105700 +0000" stop="20260629124100 +0000">
         <title>El Detective Endeavour: Nocturno</title>
@@ -906,10 +946,10 @@
         <desc>Cuando un delincuente de poca monta se fuga de una prisión abierta, se desencadena una reacción en cadena de acontecimientos inquietantes que amenazan con sacar a la luz horrores indecibles del pasado.</desc>
         <icon src="https://images.pluto.tv/series/63354cc7b2e75600132a0517/tile_1774015921095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61bb2814ac085a00074309a6" start="20260629120000 +0000" stop="20260629122140 +0000">
-        <title>Unidad de investigación</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="61bb2814ac085a00074309a6" start="20260629112440 +0000" stop="20260629122140 +0000">
+        <title>Unidad de investigación: Episodio 810</title>
+        <desc>En la plaza de un pueblo, una recreación de una intervención de las fuerzas especiales del ejército. Los primeros disparos de los comandos se realizan contra los falsos rehenes: pánico en la multitud... ¡se ha disparado munición real!</desc>
+        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1769120642788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61bb2814ac085a00074309a6" start="20260629122140 +0000" stop="20260629132240 +0000">
         <title>Unidad de investigación: Episodio 811</title>
@@ -931,10 +971,10 @@
         <desc>El ambiente está caldeado en el Cabaret, los strippers hacen su aparición bajo los aplausos y los gritos desaforados de un público exclusivamente femenino... Empieza el espectáculo, hace calor, es sexy...</desc>
         <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1769120642788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245c03922d9d4000760d205" start="20260629120000 +0000" stop="20260629120209 +0000">
-        <title>Melrose Place</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6245c03922d9d4000760d205/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6245c03922d9d4000760d205" start="20260629111409 +0000" stop="20260629120209 +0000">
+        <title>Melrose Place: La decisión de Ryan</title>
+        <desc>Poco después de proponerle matrimonio a Megan, Ryan sale corriendo de acuerdo con el plan de Lexi, pero no por las razones que ella sospecha.</desc>
+        <icon src="https://images.pluto.tv/series/62ecd079a0cb07001ac83991/tile_1778883122675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6245c03922d9d4000760d205" start="20260629120209 +0000" stop="20260629125009 +0000">
         <title>Melrose Place: Retorno a McBride Head</title>
@@ -961,10 +1001,10 @@
         <desc>Después de que su producto cinematográfico terminado para Marlin se destruye de alguna manera, Amanda decide cerrar su empresa.</desc>
         <icon src="https://images.pluto.tv/series/62ecd079a0cb07001ac83991/tile_1778883122675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f530440dc90007f514d3" start="20260629120000 +0000" stop="20260629122600 +0000">
-        <title>Poirot &amp; Miss Marple</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6304f530440dc90007f514d3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6304f530440dc90007f514d3" start="20260629104300 +0000" stop="20260629122600 +0000">
+        <title>Agatha Christie: Miss Marple ES: Miss Marple. La locura de Greenshaw</title>
+        <desc>Miss Marple ayuda a su amiga Louisa a encontrar trabajo. La mujer es contratada en la casa de una amiga de la detective como secretaria, pero todo se complica cuando el mayordomo aparece muerto.</desc>
+        <icon src="https://images.pluto.tv/series/64abf9c8aab4dc001331ba33/tile_1774006920945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6304f530440dc90007f514d3" start="20260629122600 +0000" stop="20260629140900 +0000">
         <title>Agatha Christie: Poirot: Asesinato en el Orient Express</title>
@@ -981,10 +1021,10 @@
         <desc>La prestigiosa novelista Lady Ravenscroft y el general Ravenscroft son encontrados muertos a tiros y el arma junto a ellos. El veredicto habla de un doble suicido sin ninguna causa aparente.</desc>
         <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1774005480948.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63fe0111dff38e00083510f9" start="20260629120000 +0000" stop="20260629123237 +0000">
-        <title>Pluto TV Orgullo</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63fe0111dff38e00083510f9/featuredImage_1748269331542.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63fe0111dff38e00083510f9" start="20260629103337 +0000" stop="20260629123237 +0000">
+        <title>Fresa y chocolate</title>
+        <desc>David es un comunista convencido que estudia en la Universidad de La Habana. Diego es un artista homosexual acosado por la homofobia del régimen castrista. A pesar de las abismales diferencias que los separan, entre ellos surge una profunda amistad.</desc>
+        <icon src="https://images.pluto.tv/series/63b411b888bc2000134e3d21/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63fe0111dff38e00083510f9" start="20260629123237 +0000" stop="20260629142637 +0000">
         <title>Reina Cristina</title>
@@ -1001,10 +1041,10 @@
         <desc>Chitara da el gran salto y decide alejarse un poco de su familia cuando conoce a Priscilla en internet. Pero Priscilla termina su relación de forma inesperada, y ahora Chitara se decide a averiguar qué pasó.</desc>
         <icon src="https://images.pluto.tv/series/5f30f599c8855800132418cf/tile_1782716761037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="657868a7a620e30008fdbfeb" start="20260629120000 +0000" stop="20260629121141 +0000">
+    <programme channel="657868a7a620e30008fdbfeb" start="20260629112508 +0000" stop="20260629121141 +0000">
         <title>Embrujadas</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/featuredImage_1770028317031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>La Dama del Lago se pone en contacto con las hermanas y les pide ayuda. De repente se encuentran como guardianas de la Espada en la Piedra. Cuando una de ellas saca a Excalibur de la piedra, ¿dejará que el poder se le suba a la cabeza?</desc>
+        <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1782735147050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="657868a7a620e30008fdbfeb" start="20260629121141 +0000" stop="20260629125840 +0000">
         <title>Embrujadas</title>
@@ -1031,10 +1071,10 @@
         <desc>Richard, el novio de Paige, lanza un hechizo para librarse del mal karma y accidentalmente infecta a Phoebe con el mal karma de Mata Hari.</desc>
         <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1782735147050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578808014fbe400086e21bc" start="20260629120000 +0000" stop="20260629120347 +0000">
+    <programme channel="6578808014fbe400086e21bc" start="20260629111617 +0000" stop="20260629120347 +0000">
         <title>Medium</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6578808014fbe400086e21bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Allison conoce a Megan, la compañera de Joe. Comienza a recibir señales inquietantes sobre ella. Sueña que su coche explota con ella y sus hijas dentro, pero el sueño está relacionado con otro asesinato.</desc>
+        <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6578808014fbe400086e21bc" start="20260629120347 +0000" stop="20260629125137 +0000">
         <title>Medium</title>
@@ -1066,10 +1106,10 @@
         <desc>Devalos pide ayuda a Allison para hallar a Meredith Burnes, hija desaparecida de un consejero. Las visiones culpan al marido, pero una charla con la madre cambia su perspectiva. Joe lucha con el insomnio.</desc>
         <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf6ab58145cb0008129ca8" start="20260629120000 +0000" stop="20260629120947 +0000">
-        <title>Pluto TV Series criminales</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65cf6ab58145cb0008129ca8" start="20260629111447 +0000" stop="20260629120947 +0000">
+        <title>Constance Meyer: Jueza en prácticas: No sin Léa</title>
+        <desc>Después de ser encarcelada injustamente debido a un error judicial, Constance Meyer decide emprender una nueva carrera.</desc>
+        <icon src="https://images.pluto.tv/series/6093a220fa5f8f001b38bb1b/tile_1774022761070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65cf6ab58145cb0008129ca8" start="20260629120947 +0000" stop="20260629131547 +0000">
         <title>Unidad de investigación: Episodio 801</title>
@@ -1116,10 +1156,10 @@
         <desc>La hermana Monica Joan tiene la clave para diagnosticar una misteriosa enfermedad y Chummy llama a sus conexiones reales.</desc>
         <icon src="https://images.pluto.tv/series/61152953975c210013c18526/tile_1775036760448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260629120000 +0000" stop="20260629123000 +0000">
-        <title>Realmadrid TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260629094500 +0000" stop="20260629123000 +0000">
+        <title>Historia que tú hiciste</title>
+        <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65f96cd34e01740008ef1c97" start="20260629123000 +0000" stop="20260629130000 +0000">
         <title>Conecta informativo</title>
@@ -1141,10 +1181,10 @@
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260629120000 +0000" stop="20260629122500 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260629114500 +0000" stop="20260629122500 +0000">
+        <title>FACTS</title>
+        <desc>Germany dazzles to secure a record fourth title against Brazil in Yokohama.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7b96446070bd3cdeef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260629122500 +0000" stop="20260629142800 +0000">
         <title>2023 FIFA Women's World Cup</title>
@@ -1266,10 +1306,10 @@
         <desc>Hervé Carpentier, propietario de un pequeño establo para caballos heridos, es asesinado en pleno centro de París por un dardo hipodérmico. Al mismo tiempo, Alice pide finalmente a su padre una explicación sobre el cadáver que ha desenterrado.</desc>
         <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6745f0643a61d40008a61510" start="20260629120000 +0000" stop="20260629121643 +0000">
+    <programme channel="6745f0643a61d40008a61510" start="20260629112738 +0000" stop="20260629121643 +0000">
         <title>Rookie Blue</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6745f0643a61d40008a61510/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Tras una llamada por problemas domésticos, la vida de Andy cambia: la trabajadora social es su madre. Andy debe trabajar con ella, y Swarek, Nick, Chris y Gail buscan a la madre del caso.</desc>
+        <icon src="https://images.pluto.tv/series/67f3b4685c4a51b28b3213fc/tile_1779646321837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6745f0643a61d40008a61510" start="20260629121643 +0000" stop="20260629130532 +0000">
         <title>Rookie Blue</title>
@@ -1511,10 +1551,10 @@
         <desc>Reviviremos los momentos más memorable, las mejores jugadas y los mejores jugadores y visitaremos los lugares emblemáticos de Catar.</desc>
         <icon src="https://images.pluto.tv/series/647f420b17da09001a8c2a0b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac1f1b66c76000790ef27" start="20260629120000 +0000" stop="20260629122242 +0000">
-        <title>Pluto TV Cine Estelar</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260629103542 +0000" stop="20260629122242 +0000">
+        <title>Siempre a tu lado Hachiko</title>
+        <desc>Basada en una historia real, la película narra la historia de amistad entre un profesor universitario y Hachi, el perro de Akita. Hachi, símbolo de la lealtad y la amistad, esperará en la estación pacientemente a un dueño que puede que no vuelva nunca.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f5ccafa72a5001a5fd78e/tile_1769032827365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac1f1b66c76000790ef27" start="20260629122242 +0000" stop="20260629140955 +0000">
         <title>St. Vincent</title>
@@ -1546,10 +1586,10 @@
         <desc>El hermano de un hombre que ha fingido su muerte y robado un monton de dinero de una banda, trata de descubrir la verdad y encontrar a su asesino.</desc>
         <icon src="https://images.pluto.tv/series/66a750389322c00013eb2436/tile_1769189402375.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8099c49f600076579b2" start="20260629120000 +0000" stop="20260629122002 +0000">
-        <title>Pluto TV Cine Comedia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage_1769092378954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260629104202 +0000" stop="20260629122002 +0000">
+        <title>Dos colgados en Chicago (Los visitantes cruzan el charco)</title>
+        <desc>Thibault, un noble medieval francés y su prometida sufren un terrible contratiempo el mismo día de su boda. Thibault implora a un brujo que le administre la poción que permite viajar en el tiempo y así poder volver atrás para impedir la tragedia acaecida.</desc>
+        <icon src="https://images.pluto.tv/series/616698ec178213001ad6c5f6/tile_1746603435563.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260629122002 +0000" stop="20260629140502 +0000">
         <title>El archivo corso</title>
@@ -1566,10 +1606,10 @@
         <desc>Brandon y Jasmine son dos bailarines pertenecientes a academias rivales que deben competir por un gran premio. En su viaje a la final el enfrentamiento se va convirtiendo en amor.</desc>
         <icon src="https://images.pluto.tv/series/5f4ab3ccfa72a5001a5f7968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8a87cd38d000745d7cf" start="20260629120000 +0000" stop="20260629121000 +0000">
-        <title>Pluto TV Thrillers</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac8a87cd38d000745d7cf" start="20260629102500 +0000" stop="20260629121000 +0000">
+        <title>Cuatro vidas</title>
+        <desc>La película se Basa en un proverbio chino según el cual la existencia humana se divide en cuatro emociones: felicidad, placer, pena y amor. Estas emociones acaban cruzándose a través de cuatro personajes.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f5cd7fa72a5001a5fd859/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20260629121000 +0000" stop="20260629135600 +0000">
         <title>Dictado</title>
@@ -1586,10 +1626,10 @@
         <desc>Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía.</desc>
         <icon src="https://images.pluto.tv/series/68fb4cbd0966c2fd46ce8c7c/tile_1761332793106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20260629120000 +0000" stop="20260629122845 +0000">
-        <title>Pluto TV Cine Drama</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20260629105745 +0000" stop="20260629122845 +0000">
+        <title>Fago</title>
+        <desc>El hallazgo del coche del alcalde, abandonado lejos del pueblo, permite a los investigadores iniciar el análisis de restos genéticos, mientras el teniente Vidal y el sargento Pacheco interrogan a todo el pueblo y requisan las armas de caza.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f5cf8fa72a5001a5fdadb/tile_1768935611264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac947dcd00d0007937c08" start="20260629122845 +0000" stop="20260629135745 +0000">
         <title>Fago</title>
@@ -1606,10 +1646,10 @@
         <desc>Tommaso, un niño de 4 años, desaparece durante un festival. Cinco años después, encontraron a un niño sin nombre y sin documentos. Coincidencias de ADN: él es Tommi, pero su madre se pregunta si ese niño no es realmente su hijo.</desc>
         <icon src="https://images.pluto.tv/series/611a5513456b21001aa1a572/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acba0d1f6340007db8843" start="20260629120000 +0000" stop="20260629120400 +0000">
-        <title>Los nuevos detectives</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1acba0d1f6340007db8843" start="20260629110300 +0000" stop="20260629120400 +0000">
+        <title>The New Detectives: Evidencia incinerada</title>
+        <desc>Cuando una investigación de asesinato comienza sin un cuerpo, una nueva generación de detectives forenses reconstruye el crimen a partir de los restos carbonizados.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f87403a6a110013ca2005/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1acba0d1f6340007db8843" start="20260629120400 +0000" stop="20260629130500 +0000">
         <title>The New Detectives: Fusible Corto</title>
@@ -1651,10 +1691,10 @@
         <desc>Atrapado por el fanatismo religioso, el emperador Paul Atreides debe confiar en sus hijos gemelos para destruir el mito de Maud'Dib.</desc>
         <icon src="https://images.pluto.tv/series/654a3098727df0001a281d4e/tile_1768609083535.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60218baa464ef900073168c1" start="20260629120000 +0000" stop="20260629121200 +0000">
+    <programme channel="60218baa464ef900073168c1" start="20260629114800 +0000" stop="20260629121200 +0000">
         <title>Empeños a lo bestia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Les otorga el préstamo más grande que jamás haya tenido en un lujoso Rolls Royce, dejando a Seth y Ashley preocupados de que el trato fallido de arte haya arruinado la cabeza de su padre.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60218baa464ef900073168c1" start="20260629121200 +0000" stop="20260629123600 +0000">
         <title>Empeños a lo bestia</title>
@@ -1706,10 +1746,10 @@
         <desc>El tanque de inmersión de un cliente inspira a Karen a tener una gran idea para la tienda. Seth y Les están a bordo, pero ¿Ashley estará dispuesta a defender la causa cuando descubra lo que han planeado para ella?</desc>
         <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080345ebb49b90007ce0baf" start="20260629120000 +0000" stop="20260629122200 +0000">
-        <title>Pluto TV Motor</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6080345ebb49b90007ce0baf" start="20260629113400 +0000" stop="20260629122200 +0000">
+        <title>FantomWorks: Tr6 Y Volkswagen Escarabajo</title>
+        <desc>El equipo de Dan se ocupa de las restauraciones de un Volkswagen escarabajo de 1966 y un convertible TR6 de 1976.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1782730081084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6080345ebb49b90007ce0baf" start="20260629122200 +0000" stop="20260629131000 +0000">
         <title>FantomWorks: Impala Y Bel Air</title>
@@ -1736,10 +1776,10 @@
         <desc>Mike quiere que Dan haga de su preciado Mach 1 más un muscle car, lo que genera una lucha entre potencia y rendimiento.</desc>
         <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1782730081084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20260629120000 +0000" stop="20260629123425 +0000">
-        <title>Top Gear</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/featuredImage_1760687705283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="60d356a534f63f000850cdd7" start="20260629113525 +0000" stop="20260629123425 +0000">
+        <title>Top Gear: Temporada 7, Episodio 3</title>
+        <desc>Jeremy, Richard y James llevan sus supercoches favoritos, el Ford GT, el Ferrari F430 y el Pagani Zonda, a un viaje continental. El Focus ST toma la pista y el choque cultural de los coches cuando Austin Healey Sprite se hace con un Peugeot 306.</desc>
+        <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60d356a534f63f000850cdd7" start="20260629123425 +0000" stop="20260629133225 +0000">
         <title>Top Gear: Temporada 7, Episodio 4</title>
@@ -1786,10 +1826,10 @@
         <desc>César Millán, "El encantador de perros", aborda problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, sino de un entrenamiento de gente para que adiestren perros.</desc>
         <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1776156120888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e4573c9f963e00077ecf25" start="20260629120000 +0000" stop="20260629123300 +0000">
-        <title>Mi Extraña Obsesión</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="60e4573c9f963e00077ecf25" start="20260629114200 +0000" stop="20260629123300 +0000">
+        <title>Loca compulsión: Especial de Navidad</title>
+        <desc>Especial de Navidad te adentra en las vidas de coleccionistas extremos que han llevado la decoración navideña al máximo. Para estos coleccionistas obsesionados, es Navidad todo el año.</desc>
+        <icon src="https://images.pluto.tv/series/6177c6776b2c51001aed2c61/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60e4573c9f963e00077ecf25" start="20260629123300 +0000" stop="20260629125800 +0000">
         <title>Loca compulsión: Ama Conejos / La familia más fuerte del mundo</title>
@@ -1861,10 +1901,10 @@
         <desc>Un atleta es asesinado a tiros a pocas semanas de comenzar la universidad, dejando a la familia desconsolada y a los detectives perplejos. El hombre parece un objetivo improbable, hasta que el teniente Joe Kenda indaga en su vida personal.</desc>
         <icon src="https://images.pluto.tv/series/618920d0173119001b2d6afc/tile_1776086281426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b9edc4a4ca6100070bb407" start="20260629120000 +0000" stop="20260629121729 +0000">
-        <title>Ice Pilots</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260629112741 +0000" stop="20260629121729 +0000">
+        <title>Pilotos Del Ártico</title>
+        <desc>Joe compite con una peculiar moto de nieve antigua, equipada con un motor de avión y sin frenos.</desc>
+        <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1776174841582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61b9edc4a4ca6100070bb407" start="20260629121729 +0000" stop="20260629130717 +0000">
         <title>Pilotos Del Ártico</title>
@@ -1891,10 +1931,10 @@
         <desc>AJ y James luchan contra un incendio en el motor de un DC-4. Es el cumpleaños 69 de Joe, ¡y nunca antes había pilotado un helicóptero!</desc>
         <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1776174841582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6335a6b6e6f7a600076e589e" start="20260629120000 +0000" stop="20260629121900 +0000">
-        <title>Cazasubastas</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260629115500 +0000" stop="20260629121900 +0000">
+        <title>Auction Hunters: El gran golpe</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1780400521502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6335a6b6e6f7a600076e589e" start="20260629121900 +0000" stop="20260629124300 +0000">
         <title>Auction Hunters: Ton tiene un arma</title>
@@ -1961,10 +2001,10 @@
         <desc>Hace 10.000 días, un cometa impactó con la Tierra en pleno océano Pacífico con la fuerza de incontables bombas nucleares, sumiendo al planeta en nieve y hielo.</desc>
         <icon src="https://images.pluto.tv/series/5f4948bb61f1b1001afec827/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20260629120000 +0000" stop="20260629122149 +0000">
-        <title>Pluto TV True Crime</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64a3f200f238ce0008d47247" start="20260629111849 +0000" stop="20260629122149 +0000">
+        <title>Evidencias del Crimen: El Ángel y el Demonio</title>
+        <desc>El cadáver de Priscilla Ciatti, de 14 años, es descubierto al lado de un campo, a unos cientos de metros de la casa de su familia.</desc>
+        <icon src="https://images.pluto.tv/series/6038f0dce60433001ab2dc26/tile_1769115961299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a3f200f238ce0008d47247" start="20260629122149 +0000" stop="20260629132549 +0000">
         <title>Evidencias del Crimen: Teknival Mortal en Bretaña</title>
@@ -1991,10 +2031,10 @@
         <desc>Este episodio incluye: Ángel Perdido (Partes 1 &amp; 2), Actualización: Bebé del Carro del Fumador, Hombre Misterioso, Maestra Perdida y La Mamá de Meredith &amp; Actualización.</desc>
         <icon src="https://images.pluto.tv/series/6127a396964d2000141b99df/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ddcbb14c5ed80008fad416" start="20260629120000 +0000" stop="20260629120300 +0000">
-        <title>Crimen &amp; Historia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64ddcbb14c5ed80008fad416" start="20260629110900 +0000" stop="20260629120300 +0000">
+        <title>Ted Bundy: Serial Monster</title>
+        <desc>Tras ser admitido en la Facultad de Derecho de la Universidad de Utah, Bundy se muda a Salt Lake City y comienza una nueva serie de asesinatos. En Idaho, Utah y Colorado mata a once mujeres más.</desc>
+        <icon src="https://images.pluto.tv/series/67977d75c10e600013fca086/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260629120300 +0000" stop="20260629125600 +0000">
         <title>Ted Bundy: Serial Monster</title>
@@ -2021,10 +2061,10 @@
         <desc>A través de diversos testimonios, conoceremos historias fascinantes de mujeres que cometieron crímenes motivados por los celos, sed de venganza y avaricia.</desc>
         <icon src="https://images.pluto.tv/series/66d81af8a0ed47001326a438/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65254e8d81f9420008342cee" start="20260629120000 +0000" stop="20260629122341 +0000">
-        <title>La fiebre del Jade</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65254e8d81f9420008342cee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65254e8d81f9420008342cee" start="20260629115841 +0000" stop="20260629122341 +0000">
+        <title>La Fiebre del Jade: Eres Mi Chico Azul</title>
+        <desc>La tripulación se enfrenta a una peligrosa recuperación en las orillas del río Turnagain.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65254e8d81f9420008342cee" start="20260629122341 +0000" stop="20260629124841 +0000">
         <title>La Fiebre del Jade: Batalla Cuesta Arriba</title>
@@ -2091,10 +2131,15 @@
         <desc>Testigos de todo el mundo han tenido encuentros cercanos con razas extraterrestres, dando forma a nuestra imaginación y convirtiéndose en fenómenos culturales.</desc>
         <icon src="https://images.pluto.tv/series/653f6af33e6938001a752418/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6554bd45aa9ffb00088e5589" start="20260629120000 +0000" stop="20260629123130 +0000">
-        <title>COPS</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260629114500 +0000" stop="20260629120815 +0000">
+        <title>Cops: Mejilla a mejilla</title>
+        <desc>Durante una parada de tránsito un sospechoso decide huir a campo través. Una mujer rehúsa mentir por el amigo de su hijo. Se captura en video a un hombre escondiendo artículos en un lugar obvio.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260629120815 +0000" stop="20260629123130 +0000">
+        <title>Cops: En humo</title>
+        <desc>El último esfuerzo para huir de la policía termina en llamas. Varias unidades se unen para acabar con una situación peligrosa. La policía vigila una batalla de custodia conllevando comestibles caros.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6554bd45aa9ffb00088e5589" start="20260629123130 +0000" stop="20260629125444 +0000">
         <title>Cops: Sintiendo el calor</title>
@@ -2156,10 +2201,10 @@
         <desc>Blaine, la estrella del Burlesque, lo hace a lo grande.</desc>
         <icon src="https://images.pluto.tv/series/615eaaa474755c001a4c9a25/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578836cdfed030008ce5bdb" start="20260629120000 +0000" stop="20260629121556 +0000">
-        <title>Sí quiero ese vestido</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260629115154 +0000" stop="20260629121556 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>A pesar de ser legalmente ciega, la novia Jessi confía en que encontrará el vestido de encaje romántico perfecto.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6578836cdfed030008ce5bdb" start="20260629121556 +0000" stop="20260629123958 +0000">
         <title>El Vestido de tu Boda: Atlanta</title>
@@ -2211,10 +2256,10 @@
         <desc>Dana quiere imitar el look nupcial de su ídolo, una estrella del pop. La visión del vestido de Caroline es cuestionada por su séquito.</desc>
         <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bd0f53dc10a40008e68b96" start="20260629120000 +0000" stop="20260629121100 +0000">
-        <title>Pluto TV Gasolina</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/featuredImage_1747382174478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260629114600 +0000" stop="20260629121100 +0000">
+        <title>Superautos: Jaguar XF RS, Porsche Panamera Turbo S, Audi S8</title>
+        <desc>El V8 XF RS Sportbreak sobrealimentado de Jaguar, el Porsche Panamera Turbo S y el Audi S8 combinan espacio y comodidad con el rendimiento de un coche deportivo.</desc>
+        <icon src="https://images.pluto.tv/series/60d1b832e301960013dbce12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65bd0f53dc10a40008e68b96" start="20260629121100 +0000" stop="20260629123900 +0000">
         <title>Superautos: La Dolce Vita</title>
@@ -2281,10 +2326,10 @@
         <desc>Julia y Samuel se mudan con los niños a una urbanización en las afueras de la ciudad. Parece un lugar ideal, pero Julia pronto descubrirá que tan idílico paraje esconde algo extraño. Se da cuenta de que la urbanización está completamente desierta.</desc>
         <icon src="https://images.pluto.tv/series/62b479dfcb0324001353e3e3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20260629120000 +0000" stop="20260629123258 +0000">
+    <programme channel="686cd84603ad75cfd132d672" start="20260629114446 +0000" stop="20260629123258 +0000">
         <title>America's Next Top Model</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage_1751963785439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Las modelos se sumergen en una sesión bajo el agua dirigida por el reconocido fotógrafo de belleza Matthew Rolston, quien también se une como juez invitado.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260629123258 +0000" stop="20260629132110 +0000">
         <title>America's Next Top Model</title>
@@ -2326,10 +2371,15 @@
         <desc>Decidirse a hacerse un injerto o no decidirse a seguir con el novio. Entre estas dudas trascendentales, un gran evento : la madre de todas las bodas, la de Naiara y su novio.</desc>
         <icon src="https://images.pluto.tv/series/68ad87088eef10068fc0d358/tile_1774022401202.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68adc697116b783a33f99e6c" start="20260629120000 +0000" stop="20260629122345 +0000">
-        <title>Pluto TV Impacto</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/featuredImage_1760448744320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68adc697116b783a33f99e6c" start="20260629113152 +0000" stop="20260629120042 +0000">
+        <title>Metrópoli Latinoamericana</title>
+        <desc>A tres sospechosos se les encuentra dinero y dosis de pasta base de cocaína. Un hombre herido en la vía pública y un choque múltiple. Un tiroteo en los bosques de Chapultepec. Un conductor violento que se resiste a los oficiales y a su novia.</desc>
+        <icon src="https://images.pluto.tv/series/68b188ff0652cfdb65d049af/tile_1756526935356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20260629120042 +0000" stop="20260629122345 +0000">
+        <title>Metrópoli Latinoamericana</title>
+        <desc>Robo a un conductor en la zona de Tacuyaba. Una mujer ha sufrido un derrame cerebral. Un conductor y sus bellas y aguerridas acompañantes que enfrentan a los oficiales. Una mujer hipertensa, con una de sus piernas heridas de gravedad.</desc>
+        <icon src="https://images.pluto.tv/series/68b188ff0652cfdb65d049af/tile_1756526935356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68adc697116b783a33f99e6c" start="20260629122345 +0000" stop="20260629125026 +0000">
         <title>¡ALTO! Frontera: Episodio 5</title>
@@ -2396,10 +2446,10 @@
         <desc>Después de que el dueño de un restaurante francés sea encontrado con su propio dedo en escabeche en la boca, Crabtree sustituye a un Murdoch herido para resolver el crimen.</desc>
         <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1774540711299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c51060ed1b1f1acb5092dc" start="20260629120000 +0000" stop="20260629123300 +0000">
-        <title>Alaska y Mario</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/featuredImage_1778483817519.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="69c51060ed1b1f1acb5092dc" start="20260629114900 +0000" stop="20260629123300 +0000">
+        <title>Alaska y Mario: ¡Qué maravilla, Gandía!</title>
+        <desc>La preproducción del single veraniego de las Nancys continúa viento en popa. Mario y Alaska se pasarán por el museo de cera, donde Olvido posa para la estatua que están haciendo de ella.</desc>
+        <icon src="https://images.pluto.tv/series/64214d00a659cb001a0d682b/tile_1779370921377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69c51060ed1b1f1acb5092dc" start="20260629123300 +0000" stop="20260629131600 +0000">
         <title>Alaska y Mario: ¡Qué maravilla, Star Trek!</title>
@@ -10962,6 +11012,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260630013500 +0000" stop="20260630032000 +0000">
+        <title>Historia que tú hiciste</title>
+        <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260629175000 +0000" stop="20260629203300 +0000">
         <title>2019 FIFA Women's World Cup</title>
         <desc>From July 3, 2019.</desc>
@@ -12451,6 +12506,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <title>Straw Dogs</title>
         <desc>El astrofísico americano David Sumner (Hoffman) se traslada a vivir al pueblo de su mujer, en Gran Bretaña.</desc>
         <icon src="https://images.pluto.tv/series/673f4280e07f280013031791/tile_1769192281973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260630004713 +0000" stop="20260630031718 +0000">
+        <title>Sleuth</title>
+        <desc>Andrew Wyke (Laurence Olivier) es un prestigioso escritor de novelas de intriga. Una tarde, invita a su casa a Milo Tindle (Michael Caine), amante de su mujer</desc>
+        <icon src="https://images.pluto.tv/series/673f3e56882f6d0013cbbdfd/tile_1769191922015.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260629193408 +0000" stop="20260629202208 +0000">
         <title>Historias de Ultratumba: Maldición de amor</title>
@@ -16045,37 +16105,37 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
     <programme channel="6793ac47f5c74bff95d18a99" start="20260629232023 +0000" stop="20260630011109 +0000">
         <title>LaLiga</title>
         <desc>Disfruta del partido de la liga 202526 entre Barça i Real Madrid</desc>
-        <icon src="https://images.pluto.tv/series/6a3a56f4089e924544d75ccd/tile_1782736427087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a3a56f4089e924544d75ccd/tile_1782727567044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630011109 +0000" stop="20260630013314 +0000">
         <title>Inside</title>
         <desc>El Barça regresó al nuevo Spotify Camp Nou venciendo al Athletic Club por 4 a 0</desc>
-        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782736427408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782727566715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630013314 +0000" stop="20260630015648 +0000">
         <title>Todos los goles</title>
         <desc>Todos los goles de Fermín con la camiseta blaugrana</desc>
-        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782736426700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782727566338.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630015648 +0000" stop="20260630022417 +0000">
         <title>Inside</title>
         <desc>Las mejores imagenes de la final de la UWCL 202526</desc>
-        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782736427408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782727566715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630022417 +0000" stop="20260630024433 +0000">
         <title>Inside</title>
         <desc>Las mejores imagenes de la celebración del campeonato de liga 202526 al Spotify Camp Nou</desc>
-        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782736427408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782727566715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630024433 +0000" stop="20260630033251 +0000">
         <title>Todos los goles</title>
         <desc>Todos los goles de Ronaldinho en el FC Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782736426700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782727566338.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630033251 +0000" stop="20260630045212 +0000">
         <title>Goles</title>
         <desc>Todos los goles de Robert Lewandowski como jugador blaugrana</desc>
-        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782736429249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782727568952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6812206e1b3e3be031a5c363" start="20260629235433 +0000" stop="20260630012835 +0000">
         <title>Águila Roja</title>
@@ -16316,6 +16376,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <title>The Way of War</title>
         <desc>Wolfe es un soldado que forma parte de un comando paramilitar de operaciones especiales. Con su prometida brutalmente asesinada, la venganza se convierte en su objetivo, con un dilema: vivirá para ser considerado un héroe, o morirá como un traidor?</desc>
         <icon src="https://images.pluto.tv/series/5f4f5ce5fa72a5001a5fd95e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260630042001 +0000" stop="20260630055556 +0000">
+        <title>Tiempo de héroes</title>
+        <desc>Con el destino de la Segunda Guerra Mundial a punto de ceder a favor de los alemanes, el mayor Jones lidera la formación de un nuevo comando de asalto del ejército británico. Su primera misión secreta será la de introducirse en la Noruega ocupada.</desc>
+        <icon src="https://images.pluto.tv/series/6995b50c29ff58622d42d9ca/tile_1771418893186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260629224719 +0000" stop="20260630001656 +0000">
         <title>Atraco por duplicado</title>
@@ -18297,10 +18362,50 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Maggie Garrity, la directora de un orfanato de Santa Monica, pide ayuda a la patrulla ciclista para encontrar a una joven que se acaba de escapar. El enorme atractivo de la mujer hace que las ganas de ayudar de T.C. sean poco altruistas.</desc>
         <icon src="https://images.pluto.tv/series/661ce420a9f2d200139c62f0/tile_1769198042137.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630000000 +0000" stop="20260630040000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260629233701 +0000" stop="20260630000701 +0000">
         <title>Bob Esponja</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630000701 +0000" stop="20260630003701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630003701 +0000" stop="20260630010701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630010701 +0000" stop="20260630013701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630013701 +0000" stop="20260630020701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630020701 +0000" stop="20260630023701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630023701 +0000" stop="20260630030701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630030701 +0000" stop="20260630033701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630033701 +0000" stop="20260630040701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1acdaa8ba90f0007d5e760" start="20260629233838 +0000" stop="20260630000938 +0000">
         <title>La pera limonera</title>
@@ -20901,27 +21006,27 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630033251 +0000" stop="20260630045212 +0000">
         <title>Goles</title>
         <desc>Todos los goles de Robert Lewandowski como jugador blaugrana</desc>
-        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782736429249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782727568952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630045212 +0000" stop="20260630051227 +0000">
         <title>Inside</title>
         <desc>Las mejores imagenes de la celebración del campeonato de liga 202526 al Spotify Camp Nou</desc>
-        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782736427408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782727566715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630051227 +0000" stop="20260630053633 +0000">
         <title>Goles</title>
         <desc>Todos los goles de Pedri como jugador del Barça</desc>
-        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782736429249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225f669b4b3cf544a6189/tile_1782727568952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630053633 +0000" stop="20260630062744 +0000">
         <title>Inside</title>
         <desc>Las mejores imágenes de la Supercopa de España 202425</desc>
-        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782736427408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a15cebf90dc413f53f63038/tile_1782727566715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6793ac47f5c74bff95d18a99" start="20260630062744 +0000" stop="20260630081309 +0000">
         <title>Todos los goles</title>
         <desc>Todos los goles de Alexia Putellas con el FC Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782736426700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f225fa69b4b3cf544a61e0/tile_1782727566338.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6812206e1b3e3be031a5c363" start="20260630025947 +0000" stop="20260630042652 +0000">
         <title>Águila Roja</title>
@@ -21842,6 +21947,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>La muerte y la doncella</title>
         <desc>En un país imaginario que acaba de sufrir una terrible dictadura, viven Paulina Escobar y su marido Gerardo, un prestigioso abogado. Una noche, Gerardo tiene una avería con su coche, pero un hombre se ofrece a ayudarle…</desc>
         <icon src="https://images.pluto.tv/series/673b0becb7ea5e0013f37c61/tile_1769190843193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ce480a78df2200131c597b" start="20260630082550 +0000" stop="20260630101050 +0000">
+        <title>Alarma en el Expreso</title>
+        <desc>Centroeuropa. El tren Transcontinental  sufre un retraso. Los pasajeros pernoctan en un hotel. Iris Henderson habla con una anciana, la Sra. Froy. En el tren, Iris se da cuenta de la desaparición de la anciana, pero los pasajeros afirman que no existe.</desc>
+        <icon src="https://images.pluto.tv/series/6638f613c2d6a90013d02a0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260630034835 +0000" stop="20260630043646 +0000">
         <title>America's Next Top Model</title>
@@ -25419,9 +25529,9 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1769120642788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61bb2814ac085a00074309a6" start="20260630104040 +0000" stop="20260630113640 +0000">
-        <title>Unidad de investigación: Episodio 1010</title>
-        <desc>Dos familias vecinas, dos chicos de dieciocho años, Noé y Gabriel, que nunca se separan. Hoy celebran que Noé acaba de ganar una regata, mientras que Gaby está bebiendo solo. Su madre, Juliette, lleva tres meses desaparecida. No tiene noticias.</desc>
-        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1769120642788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Unidad de investigación</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="61bb2814ac085a00074309a6" start="20260630113640 +0000" stop="20260630123440 +0000">
         <title>Unidad de investigación: Episodio 1011</title>
@@ -25578,10 +25688,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Allison sueña una y otra vez con lo mismo. Cada vez va encontrando pistas nuevas que le ayudan a cambiar los hechos, pero no siempre logra que todo el mundo salga ileso.</desc>
         <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf6ab58145cb0008129ca8" start="20260630065847 +0000" stop="20260630080347 +0000">
-        <title>Unidad de investigación: Episodio 808</title>
-        <desc>Un cubo de basura aislado en las afueras de Grasse... Un vagabundo levanta una tapa: un cadáver. La víctima, Roland Wagner, escapó ayer a las 9 de la mañana de la prisión de Baumettes, en Marsella, donde cumplía una condena de 8 años por asesinato.</desc>
-        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1769120642788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65cf6ab58145cb0008129ca8" start="20260630080000 +0000" stop="20260630080347 +0000">
+        <title>Pluto TV Series criminales</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65cf6ab58145cb0008129ca8" start="20260630080347 +0000" stop="20260630090247 +0000">
         <title>Constance Meyer: Jueza en prácticas: Especie protegida</title>
@@ -26032,6 +26142,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Camino a la libertad</title>
         <desc>Los fugados de un gulag siberiano recorren a pie seis mil kilómetros hasta la libertad en la India.</desc>
         <icon src="https://images.pluto.tv/series/672b24e24ad85600133c2323/tile_1776174843034.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260630120237 +0000" stop="20260630141607 +0000">
+        <title>La casa de la esperanza</title>
+        <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
+        <icon src="https://images.pluto.tv/series/672dcaa04ad856001364e544/tile_1769190483061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac2591dd8880007bb7d6d" start="20260630075055 +0000" stop="20260630093235 +0000">
         <title>Hiena salvaje</title>
@@ -30728,7 +30843,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Una entrega en la que se conocerá al cuñado de Darwin y se parodiarán los programas ‘Master Chef’ y ‘Comando Actualidad’. Además, Jacintus XL intentará ligar en Internet.</desc>
         <icon src="https://images.pluto.tv/series/62566fb7228ab000133cc416/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abce155a03d0007718834" start="20260630122640 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1abce155a03d0007718834" start="20260630122640 +0000" stop="20260630132240 +0000">
+        <title>José Mota Presenta: Jose Mota Presenta ES</title>
+        <desc>Bertín Osborne entrevista en “En la tuya o en la mía” a Pedro Almódovar. En 'Planeta Collejas', Antonio Ferreras sufrirá los inconvenientes de esta apuesta televisiva.</desc>
+        <icon src="https://images.pluto.tv/series/62566fb7228ab000133cc416/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abce155a03d0007718834" start="20260630132240 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Comedia made in Spain</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30738,7 +30858,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Hits on the playlist include "Head on Collision," "The Sensitive Kind" and "Behind Closed Doors."</desc>
         <icon src="https://images.pluto.tv/series/68dba397fa0f5ccff57365b8/tile_1759224728925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260630122700 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260630122700 +0000" stop="20260630125900 +0000">
+        <title>FailFactory</title>
+        <desc>People who didn't get an A in driver's education.</desc>
+        <icon src="https://images.pluto.tv/series/68dba395fa0f5ccff5736278/tile_1759226376387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260630125900 +0000" stop="20260630133100 +0000">
+        <title>FailFactory</title>
+        <desc>All fails are not created equal; the featured got the short end of the stick with extra painful mistakes.</desc>
+        <icon src="https://images.pluto.tv/series/68dba395fa0f5ccff5736278/tile_1759226376387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260630133100 +0000" stop="20260630160000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30758,7 +30888,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Invitado: Gabino Diego. Monólogo de Andoni. La imagen de la semana con Javier Antón. Parodia Almodóvar con Gabino Diego. Vídeos y sketches. Despedida.</desc>
         <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f28009b150b2500077766b8" start="20260630125900 +0000" stop="20260630160000 +0000">
+    <programme channel="5f28009b150b2500077766b8" start="20260630125900 +0000" stop="20260630142900 +0000">
+        <title>Vaya Semanita: Episode 24</title>
+        <desc>Invitada: lluvia Rojo. La imagen de la semana con Javier Antón. Entrevista a Lluvia Rojo. Parodia Llongueras. Sección Itziar Atienza. El "emo" con Lluvia Rojo.</desc>
+        <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f28009b150b2500077766b8" start="20260630142900 +0000" stop="20260630160000 +0000">
         <title>Vaya semanita</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30778,7 +30913,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>presencia de Kero y falla su tiro, por lo que Yukito gana. Kero descubre que ella tiene algún tipo de responsabilidad en el próximo "juicio final".</desc>
         <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608035b8d8705f0007260287" start="20260630121416 +0000" stop="20260630160000 +0000">
+    <programme channel="608035b8d8705f0007260287" start="20260630121416 +0000" stop="20260630124216 +0000">
+        <title>Cardcaptor Sakura ES: Sakura y la última carta de Clow</title>
+        <desc>Sakura debe atrapar la última Carta para que comience el "Juicio Final".  Kero vuelve a su forma original, y Yukito se convierte en Yue ante la sorpresa de casi todos.</desc>
+        <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20260630124216 +0000" stop="20260630131116 +0000">
+        <title>Cardcaptor Sakura ES: Sakura y el Juicio Final</title>
+        <desc>A Sakura le duele olvidar sus sentimientos hacia aquellos a los que más había querido. Como Yue y Yukito que son la misma persona, y Sakura es incapaz de luchar contra Yue.</desc>
+        <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20260630131116 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30808,7 +30953,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un ladrón, decidido a robar joyas valiosas de la sala de almacenamiento de una morgue de la ciudad, se enamora de un extraño asistente de la morgue, una mujer que se siente menos cómoda con los vivos que con los muertos.</desc>
         <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20260630120837 +0000" stop="20260630160000 +0000">
+    <programme channel="612ce5214bb5790007ad3016" start="20260630120837 +0000" stop="20260630123237 +0000">
+        <title>Historias de fantasmas: La Estada Inmaculada</title>
+        <desc>Un joven mago y su ambiciosa esposa son invitados a la casa de un gran maestro jubilado. Con la esperanza de descubrir el secreto del famoso acto de ensartar espadas del maestro mago, la pareja obtiene más de lo que esperaban.</desc>
+        <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612ce5214bb5790007ad3016" start="20260630123237 +0000" stop="20260630125637 +0000">
+        <title>Historias de fantasmas: Beat The Reaper/Jugando Con La Muerte</title>
+        <desc>Un hombre condenado a muerte reza por el indulto del gobernador. Una noche tiene una visita fantasmal de su compañero muerto, quien le muestra cómo escapar.</desc>
+        <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612ce5214bb5790007ad3016" start="20260630125637 +0000" stop="20260630134437 +0000">
+        <title>Historias de Ultratumba: Desalojo perverso</title>
+        <desc>Tammy Shea, madre soltera de tres hijos, traslada a su familia para comenzar de nuevo, pero su sueño se convierte en una pesadilla cuando su familia se enfrenta a múltiples entidades.</desc>
+        <icon src="https://images.pluto.tv/series/609532f00c3a580013e2bc76/tile_1782270019302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612ce5214bb5790007ad3016" start="20260630134437 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30838,7 +30998,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Los vecinos de South Park deciden que la ciudad ya no necesita tener cuerpo de policía.</desc>
         <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1774003320979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="628751bb7154a40007168843" start="20260630122002 +0000" stop="20260630160000 +0000">
+    <programme channel="628751bb7154a40007168843" start="20260630122002 +0000" stop="20260630124502 +0000">
+        <title>South Park: Contenido patrocinado</title>
+        <desc>La integridad de Jimmy como periodista choca contra la ideología del director PC.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1774003320979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20260630124502 +0000" stop="20260630131002 +0000">
+        <title>South Park: Verdad y propaganda</title>
+        <desc>El director PC desaparece junto con dos de los alumnos de cuarto.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1774003320979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20260630131002 +0000" stop="20260630160000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage_1755153575393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30848,7 +31018,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Ran, Conan, Kogoro y Sonoko van a una especie de camping donde ocurre un asesinato. Conan descubre al asesino, pero por culpa de su enfermedad se queda sin voz.</desc>
         <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="629a066860ef810008267b70" start="20260630122154 +0000" stop="20260630160000 +0000">
+    <programme channel="629a066860ef810008267b70" start="20260630122154 +0000" stop="20260630124854 +0000">
+        <title>Detective Conan: Un curry de lo más sospechoso (II)</title>
+        <desc>Haciendo que parezca un juego, Conan intenta guiar a Kogoro para que este vaya entendiendo las pistas y puede resolver el asesinato.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20260630124854 +0000" stop="20260630131554 +0000">
+        <title>Detective Conan: Dos princesas tal para cual (I)</title>
+        <desc>Kogoro es solicitado por un gran millonario para que le cuide las espaldas porque teme ser asesinado. La noche anterior al caso, Kogoro bebe demasiado y apuesta dinero antes de que le paguen.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20260630131554 +0000" stop="20260630160000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage_1780997960365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30858,7 +31038,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Han pasado tres meses desde que el Raimon ganara el Torneo Camino Imperial; el fútbol ya no está controlado por el Sector Quinto y se puede jugar en libertad. Arion Sherwind ha viajado por todo el país, enseñando a jugar a este hermoso deporte.</desc>
         <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20260630120700 +0000" stop="20260630160000 +0000">
+    <programme channel="632c6df43d2bc5000751f621" start="20260630120700 +0000" stop="20260630123300 +0000">
+        <title>Inazuma Eleven Go Chrono Stone: ¡Arion viaja en el tiempo!</title>
+        <desc>Arion es atacado por el misterioso Alpha, y solo se salva gracias a la intervención de otro misterioso chico que viene de dentro de 200 años en el futuro: Fei. Alpha y su equipo, el Protocolo Omega, desafían a Arion y Fei a un partido.</desc>
+        <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20260630123300 +0000" stop="20260630125900 +0000">
+        <title>Inazuma Eleven Go Chrono Stone: ¡El Raimon renace!</title>
+        <desc>El grupo llamado El Dorado no sólo quiere eliminar el club de fútbol del Raimon -¡sino eliminar el fútbol de la historia!. Para impedirlo, Arion y Fei viajan en el tiempo a los inicios del fútbol en el Raimon.</desc>
+        <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20260630125900 +0000" stop="20260630132500 +0000">
+        <title>Inazuma Eleven Go Chrono Stone: ¡El último partido!</title>
+        <desc>Tras ganar el partido contra Alpha, y seguro de que Mark Evans fundará el club de fútbol del Instituto Raimon, Arion vuelve a su tiempo para ver si la historia se ha arreglado. Sí, Riccardo y los demás han vuelto al club, pero aún falta Victor Blade.</desc>
+        <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20260630132500 +0000" stop="20260630160000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30878,7 +31073,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Los chicos se volverán literalmente locos con su nuevo juego de ordenador. Aparición estelar de Toallín.</desc>
         <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20260630121024 +0000" stop="20260630160000 +0000">
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260630121024 +0000" stop="20260630123424 +0000">
+        <title>South Park VOSE: Osama Bin Laden tiene calzoncillos pedorros</title>
+        <desc>Los chicos de South Park han recaudado dinero para ayudar a los niños en Afganistán. Y el gobierno creerá que el regalo de agradecimiento de los niños afganos está contaminado con antrax.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260630123424 +0000" stop="20260630125824 +0000">
+        <title>South Park VOSE: Cómo comerte el culo</title>
+        <desc>Kenny aparecerá un todos los cartones de leche del país, como 'desaparecido'. Todo obra de Cartman.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260630125824 +0000" stop="20260630132224 +0000">
+        <title>South Park VOSE: Aquí viene el vecindario</title>
+        <desc>Token está harto de ser el único niño rico del pueblo, e intentará atraer a nuevas familias ricas para que vayan a South Park.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260630132224 +0000" stop="20260630160000 +0000">
         <title>South Park Versión Original</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30888,12 +31098,37 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Prepárate para una lucha de plumas cuando Téa se enfrente al Pingüino de Pesadilla de Big 2 Crump, donde el perdedor quedará atrapado para siempre en un bloque de hielo.</desc>
         <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20260630121700 +0000" stop="20260630160000 +0000">
+    <programme channel="63eb96754e83e70008ab8941" start="20260630121700 +0000" stop="20260630124200 +0000">
+        <title>Yu-Gi-Oh! ES: Juego congelado: Parte 2</title>
+        <desc>El cuerpo de Téa se está convirtiendo en un polo gigante. ¿Podrá evitar que su cerebro se congele para encontrar la manera de derretir la estrategia de Big 2?</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20260630124200 +0000" stop="20260630130600 +0000">
+        <title>Yu-Gi-Oh! ES: Caos en los tribunales: Parte 1</title>
+        <desc>Joey se enfrenta al juez tarado Big 3 Johnson, que adopta la forma de Maestro de la Baraja del impresionante mediador Juez Man.</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20260630130600 +0000" stop="20260630160000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20260630120000 +0000" stop="20260630160000 +0000">
+    <programme channel="65786888b228b7000843ad9a" start="20260630113100 +0000" stop="20260630120100 +0000">
+        <title>Pluto TV Zombies</title>
+        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20260630120100 +0000" stop="20260630123100 +0000">
+        <title>Pluto TV Zombies</title>
+        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20260630123100 +0000" stop="20260630130100 +0000">
+        <title>Pluto TV Zombies</title>
+        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20260630130100 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Zombies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786888b228b7000843ad9a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30903,7 +31138,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Para salvar a Kes, Janeway debe poner a prueba sus propias creencias y someterse al ritual secreto de una orden religiosa alienígena.</desc>
         <icon src="https://images.pluto.tv/series/664b0198c2d6a900139d2914/tile_1769199121530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65787f2eb228b7000843fa5c" start="20260630123712 +0000" stop="20260630160000 +0000">
+    <programme channel="65787f2eb228b7000843fa5c" start="20260630123712 +0000" stop="20260630133205 +0000">
+        <title>Star Trek Voyager: El fin del futuro (parte 1)</title>
+        <desc>La tripulación visita Los Ángeles en el siglo XX para evitar que una nave destruya el sistema solar de la Tierra.</desc>
+        <icon src="https://images.pluto.tv/series/664b0198c2d6a900139d2914/tile_1769199121530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65787f2eb228b7000843fa5c" start="20260630133205 +0000" stop="20260630160000 +0000">
         <title>Star Trek: Voyager</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30913,7 +31153,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un agujero negro noquea a Dylan y lo envía a una realidad alternativa con una esposa y un hijo.</desc>
         <icon src="https://images.pluto.tv/series/5f6a514fe1625500147efdd7/tile_1776087001081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ddec1ef7f0af0008be4b65" start="20260630122842 +0000" stop="20260630160000 +0000">
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20260630122842 +0000" stop="20260630131942 +0000">
+        <title>Andrómeda</title>
+        <desc>La tripulación rescata a uno de los fundadores perdidos de la Mancomunidad, pero descubre que puede ser más problemático de lo que vale.</desc>
+        <icon src="https://images.pluto.tv/series/5f6a514fe1625500147efdd7/tile_1776087001081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20260630131942 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Series Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30923,12 +31168,32 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Cuando una araña gigante ataca el metro de Londres, el equipo de Cutter desciende a un laberinto para investigar. No obstante, hay algo más que arañas pululando en la oscuridad y pronto el equipo se enfrenta cara a cara con un depredador aún más feroz.</desc>
         <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65dded9a0d456100081417ae" start="20260630123600 +0000" stop="20260630160000 +0000">
+    <programme channel="65dded9a0d456100081417ae" start="20260630123600 +0000" stop="20260630132700 +0000">
+        <title>Primeval: Invasión jurásica: Episodio 3</title>
+        <desc>Cuando un antiguo monstruo marino queda suelto en el sistema de agua, Cutter cree que la clave para detenerlo puede estar en su esposa, perdida hace tiempo. Debe viajar en el tiempo en un intento desesperado por encontrarla y traerla de nuevo al presente.</desc>
+        <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65dded9a0d456100081417ae" start="20260630132700 +0000" stop="20260630160000 +0000">
         <title>Primeval</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65dded9a0d456100081417ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20260630120000 +0000" stop="20260630160000 +0000">
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260630113050 +0000" stop="20260630120050 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260630120050 +0000" stop="20260630123050 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260630123050 +0000" stop="20260630130050 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260630130050 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Gore &amp; Slasher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30948,7 +31213,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Nami vuelve a encontrarse con Luffy y sus amigos, pero esta vez los trata mal y los echa de la isla. Nojiko será quien relate la verdadera razón por la cual Nami está aliada con Arlong el pirata hombre pez.</desc>
         <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20260630120957 +0000" stop="20260630160000 +0000">
+    <programme channel="680ba8992472a7200a183eb5" start="20260630120957 +0000" stop="20260630123604 +0000">
+        <title>One Piece</title>
+        <desc>Nojiko empieza a contar la historia de su pasado junto con a su hermanastra Nami y a su madre adoptiva Bellemere, quien murió por salvarles la vida</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20260630123604 +0000" stop="20260630130123 +0000">
+        <title>One Piece</title>
+        <desc>Bellemere salvó la vidas de las niñas, se hizo cargo de ellas, y ellas fueron su razón de vivir, hasta el día de su muerte.</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20260630130123 +0000" stop="20260630160000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage_1748955630680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30958,7 +31233,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Guiado por Odín, Seiya quiebra el Anillo de los Nibelingos y libera a Hilda. Antes de que pueda ser rescarada, Atenea es secuestrada por Poseidón.</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20260630121430 +0000" stop="20260630160000 +0000">
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260630121430 +0000" stop="20260630124123 +0000">
+        <title>Saint Seiya</title>
+        <desc>Atenea ha sido secuestrada por Poseidón, el dios del mar. Los Caballeros de Bronce se preparan para la batalla y buscan la entrada al reino submarino.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260630124123 +0000" stop="20260630130817 +0000">
+        <title>Saint Seiya</title>
+        <desc>Para salvar a Atenea, Seiya y sus amigos deberán derribar los Pilares de los Siete Océanos, cada uno de ellos defendido por uno de los Generales de Poseidón.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260630130817 +0000" stop="20260630160000 +0000">
         <title>Los caballeros del Zodiaco</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage_1758616348425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30968,7 +31253,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un misterioso ejército roba 3 toneladas de oro bajo la vigilancia de Zenigata. Sus superiores están convencidos de que Lupin es el culpable y responsabilizan a Zenigata que acaba en el hospital tras un intento de asesinato.</desc>
         <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20260630122640 +0000" stop="20260630160000 +0000">
+    <programme channel="683457e5f59cc6a13212fce4" start="20260630122640 +0000" stop="20260630125400 +0000">
+        <title>Lupin the 3rd Parte 3</title>
+        <desc>Lupin desea el premio gordo de 50 millones de dólares pero descubre que la lotería está amañada. El presidente de la comisión de lotería manipula las máquinas para que salga un número específico. Lupin planea manipular las máquinas antes del sorteo.</desc>
+        <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20260630125400 +0000" stop="20260630132120 +0000">
+        <title>Lupin the 3rd Parte 3</title>
+        <desc>Lupin y su banda descubren que se avecina un golpe de Estado en uno de los países del Caribe y planean robar el tesoro del dictador. Logran infiltrarse en la mansión del dictador pero el tesoro ya ha desaparecido.</desc>
+        <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20260630132120 +0000" stop="20260630160000 +0000">
         <title>Lupin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/featuredImage_1754485275815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30978,7 +31273,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Continúan los combates de cuartos de final con el interesante enfrentamiento entre Jackie Chun y el Yamcha. En él, el veterano luchador da muestras de una fuerza inaudita. ¿Qué secreto se oculta detrás de Jackie Chun? .</desc>
         <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20260630122146 +0000" stop="20260630160000 +0000">
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260630122146 +0000" stop="20260630124856 +0000">
+        <title>Dragon Ball</title>
+        <desc>En el último combate de cuartos de final, Goku se enfrenta a Giran, un poderoso monstruo capaz de volar e inmovilizar a sus adversarios con su Guru Guru Gum. ¿Conseguirá Goku liberarse de su ataque y clasificarse para las semifinales?.</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260630124856 +0000" stop="20260630131606 +0000">
+        <title>Dragon Ball</title>
+        <desc>La primera semifinal enfrenta a Klilyn y a Jackie Chun. Incapaz de superar a su oponente en fuerza y velocidad, el joven se ve obligado a tirar de su astucia. ¿Será suficiente para derrotar a un adversario que oculta un impactante secreto?.</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260630131606 +0000" stop="20260630160000 +0000">
         <title>Dragon Ball</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage_1756876796839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30988,7 +31293,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>En este nuevo episodio de "Vergüenza Ajena", Rob, Chanel y Steelo estudian a unos HUMANOS EN CELO, piden un poco de CONTRAMUSLO y entran en la locura de las freidoras de aire en TOSTADORAS ESPACIALES.</desc>
         <icon src="https://images.pluto.tv/series/6448fd28559c07001a0e6550/tile_1769128922142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20260630120542 +0000" stop="20260630160000 +0000">
+    <programme channel="68de3db35fc0afe85de0b843" start="20260630120542 +0000" stop="20260630123223 +0000">
+        <title>Vergüenza Ajena</title>
+        <desc>En un nuevo episodio de Vergüenza ajena, Rob, Chanel y Steelo celebrarán las pequeñas cosas en LISTÓN BAJO, sentirán el dolor de LA NOCHE MÁS LARGA y e intentarán solucionar algunos PROBLEMAS RAROS.</desc>
+        <icon src="https://images.pluto.tv/series/6448fd28559c07001a0e6550/tile_1769128922142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20260630123223 +0000" stop="20260630125923 +0000">
+        <title>Central de Cómicos</title>
+        <desc>Chema Ruiz fue un pardillo en el colegio, y eso tiene sus desventajas, pero ahora, subido a un escenario, tiene la oportunidad de devolver todos los golpes de la infancia, y la aprovecha.</desc>
+        <icon src="https://images.pluto.tv/series/5f48a202bbff270013bcc3a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20260630125923 +0000" stop="20260630132223 +0000">
+        <title>Central de Cómicos</title>
+        <desc>Carolina Noriega, una de las cómicas con más trayectoria de España, hace una sátira de los hombres con los que ha salido en la que no deja títere con cabeza.</desc>
+        <icon src="https://images.pluto.tv/series/5f48a202bbff270013bcc3a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20260630132223 +0000" stop="20260630160000 +0000">
         <title>Comedia a lo bestia de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/featuredImage_1759402468158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30998,7 +31318,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Justo cuando Vegeta está a punto de exhalar su último aliento, entra en escena Mr. Satan, al que sorprendentemente Boo no es capaz de hacer ningún daño. Al menos hasta que escupe al antiguo Boo bueno de su interior...</desc>
         <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20260630120213 +0000" stop="20260630160000 +0000">
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260630120213 +0000" stop="20260630122823 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Mientras el Boo bueno planta cara al Boo malvado, Vegeta invoca Polunga para hacer revivir la Tierra y todos sus habitantes. ¿Aguantará el Boo bueno el tiempo suficiente para que Vegeta ponga en marcha la última fase de su plan?</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260630122823 +0000" stop="20260630125433 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Mientras el Boo bueno pierde terreno contra el Boo malo, Vegeta pide a los habitantes de la Tierra que ayuden con su energía a Goku para crear el mayor Genkidama de todos los tiempos, pero estos hacen oídos sordos a su petición.</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260630125433 +0000" stop="20260630132043 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Después de que la gente de la Tierra ignore la llamada de auxilio de Goku y Vegeta, todo parece perdido. ¿Quedará alguien capaz de convencer a los escépticos terrestres para que envíen toda su energía a Goku?</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260630132043 +0000" stop="20260630160000 +0000">
         <title>Dragon Ball Z</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage_1775550158845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31008,7 +31343,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Rosaura aprovecha su momento de una revancha en contra de Eduarda al saber que Luis Mario fue expulsado de la hacienda por su hermana, al no querer reconocerlo como un Arismendi.</desc>
         <icon src="https://images.pluto.tv/series/66545dc2e42c230013c4f6fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c5100c3d2597380f0f6422" start="20260630120812 +0000" stop="20260630160000 +0000">
+    <programme channel="69c5100c3d2597380f0f6422" start="20260630120812 +0000" stop="20260630130243 +0000">
+        <title>Gata Salvaje: Episodio 128</title>
+        <desc>Tras ser testigo de la decisión de mudanza de Rosaura, Camelia se apresura a informar a Patricio de lo acontecido con el abandono de su esposa. Marybella se insinúa ante Luis Mario.</desc>
+        <icon src="https://images.pluto.tv/series/66545dc2e42c230013c4f6fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c5100c3d2597380f0f6422" start="20260630130243 +0000" stop="20260630160000 +0000">
         <title>Gata salvaje</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/featuredImage_1777990194313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31048,7 +31388,22 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630120000 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630113701 +0000" stop="20260630120701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630120701 +0000" stop="20260630123701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630123701 +0000" stop="20260630130701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260630130701 +0000" stop="20260630160000 +0000">
         <title>Bob Esponja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31543,17 +31898,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Los Cadetes se unen para rescatar a la estrella de televisión el Oso Superviviente, que viene a Gran Torbellino para desafiar a la Cima Helada. // Swift se hace daño y Timmy tiene que ayudarle a pilotar el Flash-Wing para salvar la situación.</desc>
         <icon src="https://images.pluto.tv/series/6a0d9d8a2a2d0fe2207869ca/tile_1782729187143.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260630122126 +0000" stop="20260630124507 +0000">
-        <title>Dora, la exploradora</title>
-        <desc>Botas tiene que traerle la hoja de música de Dora en camino a su escuela cuando ella lo olvida.</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d8702b6c1c00a9eae3f/tile_1782729185969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260630124507 +0000" stop="20260630130842 +0000">
-        <title>Dora, la exploradora</title>
-        <desc>Los súper bebés tratan de conseguir su comida de bananas para bebés y quieren detener a Zorro para evitar que se las vuelva a llevar.</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d8702b6c1c00a9eae3f/tile_1782729185969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260630130842 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260630122126 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31563,12 +31908,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Las garras están fuera mientras el grupo se vuelve loco en safari y el estado de macho alfa de Dean se ve amenazado. Marty se entromete en la relación de Chloe y Sam y John está manos a la obra con Georgia.</desc>
         <icon src="https://images.pluto.tv/series/62f60a9ab80401001a2ff897/tile_1779179147269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20260630121007 +0000" stop="20260630130007 +0000">
-        <title>La venganza de los Ex: Episodio 709</title>
-        <desc>La tablet del terror comete un error y manda a Marty a una cita con Sam. Una nueva llegada envía a los gemelos a la batalla, mientras que la relación de John y Georgia va viento en popa.</desc>
-        <icon src="https://images.pluto.tv/series/62f60a9ab80401001a2ff897/tile_1779179147269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20260630130007 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1aadf373bed3000794d1d7" start="20260630121007 +0000" stop="20260630160000 +0000">
         <title>MTV Originals</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31578,17 +31918,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
         <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260630121545 +0000" stop="20260630124545 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260630124545 +0000" stop="20260630131545 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20260630131545 +0000" stop="20260630160000 +0000">
+    <programme channel="5f1ab3c7778230000735cf41" start="20260630121545 +0000" stop="20260630160000 +0000">
         <title>MTV Catfish TV Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31598,17 +31928,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Al mudarse a una hora de distancia de su novio y estar embarazada, Emily sentirá la presión que significa empezar de nuevo en una ciudad.</desc>
         <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1776174123314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260630120900 +0000" stop="20260630125600 +0000">
-        <title>Embarazada a los 16</title>
-        <desc>En su último año de instituto, las cosas para Markai y su novio James no van a ser fáciles. Ella se queda embarazada y su madre querrá echarla de casa. Además, James le será infiel.</desc>
-        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1776174123314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260630125600 +0000" stop="20260630134300 +0000">
-        <title>Embarazada a los 16</title>
-        <desc>Aubrey y Brandon lo dejarán todo para empezar de nuevo: una nueva ciudad, una nueva casa, una nueva vida en conjunto.</desc>
-        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1776174123314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20260630134300 +0000" stop="20260630160000 +0000">
+    <programme channel="5f98537a5a4341000733aefe" start="20260630120900 +0000" stop="20260630160000 +0000">
         <title>MTV Embarazada a los 16</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31618,17 +31938,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
         <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260630123000 +0000" stop="20260630130000 +0000">
-        <title>MTV Dating</title>
-        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
-        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260630130000 +0000" stop="20260630133000 +0000">
-        <title>MTV Dating</title>
-        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
-        <icon src="https://images.pluto.tv/series/68518384ce36f0644f0bcca8/tile_1750668295740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20260630133000 +0000" stop="20260630160000 +0000">
+    <programme channel="600169ec77e6f70008fa9cf0" start="20260630123000 +0000" stop="20260630160000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31638,17 +31948,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
         <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260630122952 +0000" stop="20260630125952 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
-        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260630125952 +0000" stop="20260630132952 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
-        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20260630132952 +0000" stop="20260630160000 +0000">
+    <programme channel="604f81a49ef73300070e554f" start="20260630122952 +0000" stop="20260630160000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31658,12 +31958,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>La temporada XV continúa desde el histórico Bicycle Hotel &amp; Casino en Los Ángeles. El campo de 687 entradas compite por el premio mayor de $ 615,346. Una vez más tendremos una nueva incorporación al prestigioso WPT Champions Club.</desc>
         <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260630123200 +0000" stop="20260630132200 +0000">
-        <title>World Poker Tour: Legends of Poker - Parte 2</title>
-        <desc>La temporada XV del World Poker Tour continúa desde el histórico Bicycle Hotel &amp; Casino en Los Ángeles. Encabezando la competición está Benjamin Zamani en su segunda mesa final del WPT de la temporada.</desc>
-        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20260630132200 +0000" stop="20260630160000 +0000">
+    <programme channel="6080381ab7c9ea00074ec64c" start="20260630123200 +0000" stop="20260630160000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31673,17 +31968,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
         <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260630122000 +0000" stop="20260630125000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260630125000 +0000" stop="20260630132000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260630132000 +0000" stop="20260630160000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20260630122000 +0000" stop="20260630160000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31693,17 +31978,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
         <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260630123000 +0000" stop="20260630130000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260630130000 +0000" stop="20260630133000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20260630133000 +0000" stop="20260630160000 +0000">
+    <programme channel="60d3583ef310610007fb02b1" start="20260630123000 +0000" stop="20260630160000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31713,22 +31988,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
         <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260630120800 +0000" stop="20260630123400 +0000">
-        <title>Rugrats, aventuras en pañales: La estrella</title>
-        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
-        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260630123400 +0000" stop="20260630130000 +0000">
-        <title>Rugrats, aventuras en pañales: Llegaron por el patio trasero</title>
-        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
-        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260630130000 +0000" stop="20260630132600 +0000">
-        <title>Rugrats, aventuras en pañales: El nombre del cachorro</title>
-        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
-        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260630132600 +0000" stop="20260630160000 +0000">
+    <programme channel="610c09219fc0430007a3fce6" start="20260630120800 +0000" stop="20260630160000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/featuredImage-1632239835308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31738,17 +31998,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>La virgen en tatuajes Kieran confía en su mejor amigo Dan. Jess y Paige revelan algunas verdades difíciles. Los hermanos peleadores Tanya y Gemma intentan arreglar su relación... con los tatuajes.</desc>
         <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260630122500 +0000" stop="20260630124800 +0000">
-        <title>Just Tattoo of Us USA: El fin de los Bama-amigos Kirk y Codi</title>
-        <desc>Los compañeros de reparto de Floribama Shore, Codi y Kirk se juntan con unos tatuajes muy dignos de vómitos. Dos hermanas son muy serias acerca de los mensajes que se han puesto el uno al otro en tinta permanente.</desc>
-        <icon src="https://images.pluto.tv/series/612891841685a800136eb773/tile_1769571001037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260630124800 +0000" stop="20260630133800 +0000">
-        <title>Tattoo a dos: Todo queda en familia</title>
-        <desc>El amor llena el aire mientras Thalia, de Geordie Shore, y su madre Vanessa se entintan. No todo está bien para Liam y Amber. ¿Los bromistas Hollie y Chelsea verán el lado divertido de sus tatuajes?</desc>
-        <icon src="https://images.pluto.tv/series/612740b7d24f5e00135f1676/tile_1769571000832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="611b87946b7f420007c22361" start="20260630133800 +0000" stop="20260630160000 +0000">
+    <programme channel="611b87946b7f420007c22361" start="20260630122500 +0000" stop="20260630160000 +0000">
         <title>MTV Tattoo a dos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31758,12 +32008,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Reporting on international news stories, interviews, and in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance.</desc>
         <icon src="https://images.pluto.tv/series/64ecb69ac94b150013870d31/tile_1766088207004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20260630130000 +0000" stop="20260630150000 +0000">
-        <title>CBS News 24/7 Mornings</title>
-        <desc>Emisión en directo de CBS News 24/7 con noticias de última hora y reportajes de actualidad.</desc>
-        <icon src="https://images.pluto.tv/series/6926352582bb36150562785c/tile_1771369364110.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20260630150000 +0000" stop="20260630160000 +0000">
+    <programme channel="6231ede1be5b460007f91bc1" start="20260630130000 +0000" stop="20260630160000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31773,12 +32018,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Gary planea una sorpresa que le cambiará la vida a Emma. Holly verá algunos unicornios. Sophie lucha por olvidar a su ex y Marnie tiene un parto traumático.</desc>
         <icon src="https://images.pluto.tv/series/6299d76165c304001366eb2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260630123556 +0000" stop="20260630132556 +0000">
-        <title>Geordie OG's: Gary hace la pregunta</title>
-        <desc>Sophie se prepara para celebrar su 30 cumpleaños con estilo. Marnie se adapta a su nueva vida. Holly lleva a Jacob de compras y Gary se prepara para caer de rodillas.</desc>
-        <icon src="https://images.pluto.tv/series/6299d76165c304001366eb2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="627d3176d7dfa500077042f1" start="20260630132556 +0000" stop="20260630160000 +0000">
+    <programme channel="627d3176d7dfa500077042f1" start="20260630123556 +0000" stop="20260630160000 +0000">
         <title>MTV Geordies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31788,22 +32028,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Brian quiere vengarse de su novio Jaylon por su broma de maquillaje viral. Para recuperarlo, ha solicitado la ayuda de Pauly D para planificar una comida no tan romántica.</desc>
         <icon src="https://images.pluto.tv/series/618262cc866a40001a7d2e24/tile_1769119203138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260630120546 +0000" stop="20260630122946 +0000">
-        <title>Revenge Prank with DJ Pauly D &amp; Vinny: La broma con Piglet</title>
-        <desc>Vinny ayuda a Julia a vengarse de su novio Saud jugando con lo más cercano a él, su pitbull.</desc>
-        <icon src="https://images.pluto.tv/series/618262cc866a40001a7d2e24/tile_1769119203138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260630122946 +0000" stop="20260630125346 +0000">
-        <title>Revenge Prank with DJ Pauly D &amp; Vinny: La broma en la que no vivieron felices para siempre</title>
-        <desc>La compañera de broma de Pauly D, Justina Valentine, ayuda a Rolling a vengarse de su novia Konani arruinando su día especial con algunos invitados sorpresa.</desc>
-        <icon src="https://images.pluto.tv/series/618262cc866a40001a7d2e24/tile_1769119203138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260630125346 +0000" stop="20260630131746 +0000">
-        <title>Revenge Prank with DJ Pauly D &amp; Vinny: La broma con cobertura de virutas</title>
-        <desc>Pauly D ayuda a Bella a vengarse de su novio Dami al invitarlo a una cita de ensueño en una heladería, poco sabe él que se convertirá en su peor pesadilla.</desc>
-        <icon src="https://images.pluto.tv/series/618262cc866a40001a7d2e24/tile_1769119203138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260630131746 +0000" stop="20260630160000 +0000">
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20260630120546 +0000" stop="20260630160000 +0000">
         <title>MTV Jerseys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31813,17 +32038,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
         <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260630121351 +0000" stop="20260630124351 +0000">
-        <title>MTV Vergüenza Ajena</title>
-        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
-        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260630124351 +0000" stop="20260630131351 +0000">
-        <title>MTV Vergüenza Ajena</title>
-        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
-        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20260630131351 +0000" stop="20260630160000 +0000">
+    <programme channel="63eb9495a8b227000841bf64" start="20260630121351 +0000" stop="20260630160000 +0000">
         <title>MTV Vergüenza ajena</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31833,17 +32048,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260630120925 +0000" stop="20260630123718 +0000">
-        <title>El Reino Infantil: Episodio 169</title>
-        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
-        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260630123718 +0000" stop="20260630130539 +0000">
-        <title>El Reino Infantil: Episodio 170</title>
-        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
-        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20260630130539 +0000" stop="20260630160000 +0000">
+    <programme channel="6523f672a6c38300088cb807" start="20260630120925 +0000" stop="20260630160000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6523f672a6c38300088cb807/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31853,12 +32058,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20260630130000 +0000" stop="20260630140000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20260630140000 +0000" stop="20260630160000 +0000">
+    <programme channel="66c45c0de7f5e80008b82005" start="20260630130000 +0000" stop="20260630160000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/featuredImage_1775159727857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31878,17 +32078,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
         <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260630123000 +0000" stop="20260630130000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260630130000 +0000" stop="20260630133000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20260630133000 +0000" stop="20260630160000 +0000">
+    <programme channel="67517fae5534bb0008187997" start="20260630123000 +0000" stop="20260630160000 +0000">
         <title>Actualidad 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31898,17 +32088,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
         <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260630123000 +0000" stop="20260630130000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260630130000 +0000" stop="20260630133000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20260630133000 +0000" stop="20260630160000 +0000">
+    <programme channel="67921b873de7c8cf94233f52" start="20260630123000 +0000" stop="20260630160000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31918,22 +32098,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Chelsea y Barbie ayudan a Notto a reparar su cometa y aprenden el valor de la amistad.</desc>
         <icon src="https://images.pluto.tv/series/693058e0779bf41d1d160bfc/tile_1764776200224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20260630121437 +0000" stop="20260630122926 +0000">
-        <title>Fashion Stories</title>
-        <desc>Barbie y sus amigas viven aventuras llenas de moda y creatividad. Entre pasarelas y diseños, aprenden que el mejor estilo es ser auténtico y brillar con confianza.</desc>
-        <icon src="https://images.pluto.tv/series/692f01d763142c96a9a29dd3/tile_1764688344097.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20260630122926 +0000" stop="20260630124714 +0000">
-        <title>Barbie Dream Squad, Troop Rainbow</title>
-        <desc>Barbie y sus amigas forman el Dream Squad en el Campamento Rainbow, donde la amistad, la creatividad y la confianza se unen para superar desafíos y descubrir el poder de los sueños. ¡Una aventura llena de color, música y diversión!</desc>
-        <icon src="https://images.pluto.tv/series/69314dada458a400fbe2dfcc/tile_1764838831091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20260630124714 +0000" stop="20260630131018 +0000">
-        <title>Barbie Dreamtopia series</title>
-        <desc>Chelsea organiza un desfile en Dulciudad y aprende el poder del trabajo en equipo.</desc>
-        <icon src="https://images.pluto.tv/series/693058e0779bf41d1d160bfc/tile_1764776200224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20260630131018 +0000" stop="20260630160000 +0000">
+    <programme channel="688892172928933015abe479" start="20260630121437 +0000" stop="20260630160000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31943,17 +32108,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20260630121708 +0000" stop="20260630124203 +0000">
-        <title>Pingu</title>
-        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
-        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20260630124203 +0000" stop="20260630130659 +0000">
-        <title>Pingu</title>
-        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
-        <icon src="https://images.pluto.tv/series/6932c6211a8e9be91bf6ab9a/tile_1764940411995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20260630130659 +0000" stop="20260630160000 +0000">
+    <programme channel="6888928eb52fb742416673d2" start="20260630121708 +0000" stop="20260630160000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6888928eb52fb742416673d2/featuredImage_1765806188472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31968,17 +32123,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69148c470155f9b136b5d856/featuredImage_1763054843488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260630120000 +0000" stop="20260630122200 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20260630112200 +0000" stop="20260630122200 +0000">
         <title>Rally TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Rally.TV es el nuevo hogar del rally, donde puedes mirar todas las carreras del WEC &amp; ERC, miles de destacados, y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/69a724bbb2d615a4c02b5725/tile_1772561596677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260630122200 +0000" stop="20260630132300 +0000">
-        <title>FIA European Rally Championship Highlights</title>
-        <desc>Coverage of the latest rally event.</desc>
-        <icon src="https://images.pluto.tv/series/69aeb8c06d7de5ca36a5aed0/tile_1773058241097.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260630132300 +0000" stop="20260630160000 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20260630122200 +0000" stop="20260630160000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31988,17 +32138,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
         <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20260630120026 +0000" stop="20260630123026 +0000">
-        <title>Dominance FC TV - Daytime Cards</title>
-        <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
-        <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20260630123026 +0000" stop="20260630130026 +0000">
-        <title>Dominance FC TV - Daytime Cards</title>
-        <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
-        <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20260630130026 +0000" stop="20260630160000 +0000">
+    <programme channel="69f9c50202b6c1c00a213519" start="20260630120026 +0000" stop="20260630160000 +0000">
         <title>Dominance FC TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/featuredImage_1777976664055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
